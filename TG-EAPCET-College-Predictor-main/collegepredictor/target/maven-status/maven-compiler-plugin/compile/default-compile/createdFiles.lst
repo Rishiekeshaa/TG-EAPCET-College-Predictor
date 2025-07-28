@@ -1,8 +1,0 @@
-com\example\collegepredictor\config\WebConfig.class
-com\example\collegepredictor\CollegepredictorApplication.class
-com\example\collegepredictor\controller\CollegeController.class
-com\example\collegepredictor\model\College.class
-com\example\collegepredictor\config\ExcelDataLoader.class
-com\example\collegepredictor\service\CollegeService.class
-com\example\collegepredictor\repository\CollegeRepository.class
-com\example\collegepredictor\config\ExcelDataLoader$1.class
